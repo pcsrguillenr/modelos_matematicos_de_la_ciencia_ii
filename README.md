@@ -1,1 +1,2 @@
-# modelos_matematicos_de_la_ciencia_ii
+# Modelos Matemáticos de la Ciencia II
+## Laboratorio del curso. Se utiliza R Studio.
